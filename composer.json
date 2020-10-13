@@ -1,5 +1,5 @@
 {
-    "name": "lexbrugman/php-print-ipp",
+    "name": "slim-it-nl/php-print-ipp",
     "license": "GPL-2.0",
     "autoload": {
         "classmap": ["lib/"]
